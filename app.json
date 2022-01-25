@@ -7,16 +7,16 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/CrazyBotsz",
-    "repository": "https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "website": "https://github.com/harshil8981",
+    "repository": "https://github.com/harshil8981/Adv-Auto-Filter-Bot-V2",
+    "success_url": "https://telegram.dog/Mrkiller_1109",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID From my.telegram.org or @Mytele_ORGbot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash From my.telegram.org or @Mytele_ORGbot",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -28,7 +28,7 @@
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "description": "A Pyrogram User Session String. Generated From @genStr_HProbot",
             "value": ""
         }
     },
